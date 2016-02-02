@@ -7,5 +7,7 @@
   Check to see if your program is correct by running this command:
   javascripting verify variables.js
 */
+var example='some string';
+console.log(example);
 
 
